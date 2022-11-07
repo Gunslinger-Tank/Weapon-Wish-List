@@ -11,4 +11,4 @@
 ## Usage:
 
 Use this list in DIM by going to DIM>Settings>Wish List>"Optionally, supply the URL(s) for a wish list (pipe | separated)" and add the following URL:
-https://raw.githubusercontent.com/Gunslinger-Tank/Weapon-Wish-List/main/PvE%20Weapons
+https://raw.githubusercontent.com/Gunslinger-Tank/Weapon-Wish-List/main/Destiny%202%20DIM%20Wishlist%20for%20GS%20Members
