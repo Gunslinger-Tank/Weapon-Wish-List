@@ -46,3 +46,4 @@ dimwishlist:item=1911060537&perks=3250034553,2680121939,573122728,395388285
 
 - Littlelight's Wishlist creator (https://wishlists.littlelight.club) - Can create multiple rolls automatically for you (different barrel/magazine perks for each perk combination)
 - D2 Gunsmith (https://d2gunsmith.com) - Build your roll and then press the "Copy Wishlist Item" button to generate your item code
+- Link to Voltron's wishlist for reference (https://raw.githubusercontent.com/48klocs/dim-wish-list-sources/master/voltron.txt)
