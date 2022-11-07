@@ -1,5 +1,28 @@
 # Gunslinger Clan DIM Weapon Wish List
 
+## Usage:
+
+### Setting up DIM to use this list
+
+Use this list in DIM by going to DIM>Settings>Wish List>"Optionally, supply the URL(s) for a wish list (pipe | separated)" and add the following URL:
+https://raw.githubusercontent.com/Gunslinger-Tank/Weapon-Wish-List/main/Destiny%202%20DIM%20Wishlist%20for%20GS%20Members
+
+![DIM menu > settings](https://github.com/Gunslinger-Tank/Weapon-Wish-List/blob/main/screenshots/dim_settings.png)
+![DIM settings add wishlist](https://github.com/Gunslinger-Tank/Weapon-Wish-List/blob/main/screenshots/dim_settings_add_wishlist.png)
+
+### Searching note text in DIM
+
+You can use the following code to search for wish list notes in DIM in the search bar (in this examples, looking for notes with the term "PvE":
+```
+wishlistnotes:PvE
+```
+
+You can also combine this with the logical operators in DIM to look for more than one tag/note text at the same time (in this examples, looking for notes with the term "PvE" and "PC":
+```
+wishlistnotes:PvE and wishlistnotes:PC
+```
+
+
 ## Rules for adding new rolls:
 
 - Always add notes to your entries
@@ -14,25 +37,6 @@ Example:
 //notes: tags:PvE, Boss, PC/Console
 //Submitted by: Eschyr 11/7/2022
 dimwishlist:item=1911060537&perks=3250034553,2680121939,573122728,395388285
-```
-
-## Usage:
-
-### Setting up DIM to use this list
-
-Use this list in DIM by going to DIM>Settings>Wish List>"Optionally, supply the URL(s) for a wish list (pipe | separated)" and add the following URL:
-https://raw.githubusercontent.com/Gunslinger-Tank/Weapon-Wish-List/main/Destiny%202%20DIM%20Wishlist%20for%20GS%20Members
-
-### Searching note text in DIM
-
-You can use the following code to search for wish list notes in DIM in the search bar (in this examples, looking for notes with the term "PvE":
-```
-wishlistnotes:PvE
-```
-
-You can also combine this with the logical operators in DIM to look for more than one tag/note text at the same time (in this examples, looking for notes with the term "PvE" and "PC":
-```
-wishlistnotes:PvE and wishlistnotes:PC
 ```
 
 
