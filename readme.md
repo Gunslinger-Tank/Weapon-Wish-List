@@ -5,7 +5,9 @@
 ### Setting up DIM to use this list
 
 Use this list in DIM by going to DIM>Settings>Wish List>"Optionally, supply the URL(s) for a wish list (pipe | separated)" and add the following URL:
-https://raw.githubusercontent.com/Gunslinger-Tank/Weapon-Wish-List/main/Destiny%202%20DIM%20Wishlist%20for%20GS%20Members
+```
+https://raw.githubusercontent.com/Gunslinger-Tank/Weapon-Wish-List/main/D2_GS_Wishlist
+```
 
 ![DIM menu > settings](https://github.com/Gunslinger-Tank/Weapon-Wish-List/blob/main/screenshots/dim_settings.png)
 ![DIM settings add wishlist](https://github.com/Gunslinger-Tank/Weapon-Wish-List/blob/main/screenshots/dim_settings_add_wishlist.png)
