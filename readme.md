@@ -4,8 +4,8 @@
 
 - Always add notes to your entries
   - Name of the item and role if possible (i.e. Boss damage / add clear, etc.)
-  - Tags of the type of actvity: PvE or PvP
-  - Tags if this roll is for Console or PC
+  - Tag of the type of actvity: PvE or PvP
+  - Tag if this roll is for Console or PC
   - Add your in-game name and date of addition to the notes
 
 ## Usage:
