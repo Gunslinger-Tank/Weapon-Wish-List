@@ -12,6 +12,6 @@ dimwishlist:item=1911060537&perks=3250034553,2680121939,573122728,395388285
 dimwishlist:item=2405619467&perks=3250034553,1885400500,2450788523,2458213969
 
 // Cataclysmic | Boss Damage Bait and Switch (god-pve)
-//notes: tags:PvE, Boss, PC/Console
 //Submitted by: ErklaerBaer 11/7/2022
-dimwishlist:item=999767358&perks=839105230,2680121939,1354429876,3078487919#notes:pc,boss,console,pve
+//notes: Testnotes | tags:pve,boss,pc,console
+dimwishlist:item=999767358&perks=839105230,2680121939,1354429876,3078487919
