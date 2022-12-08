@@ -68,3 +68,37 @@ dimwishlist:item=3428521585&perks=839105230,3142289711,2848615171,859780267,3363
 dimwishlist:item=3428521585&perks=839105230,3142289711,2848615171,4049631843,3363267119
 dimwishlist:item=3428521585&perks=839105230,3142289711,169755979,859780267,3363267119
 dimwishlist:item=3428521585&perks=839105230,3142289711,169755979,4049631843,3363267119
+
+// The Fool's Remedy (controller,pvp,pve)
+//notes: MagnumZero - 12/4/22 - Been a bit since I’ve used it but did a lot of work at cq wherever but it’s also got some range to it.  Range MW tags:controller,pvp,pve
+dimwishlist:item=65611680&perks=445755707,1885400500,2779035018,2846385770
+
+
+// Chroma Rush (pve,controller)
+//notes: Wilfinity - 12/7/22 - redictable recoil, very stable and just feels "fun" to use. Susbsistence is great for clearing minor adds, to stack Rampage for tougher enemies. tags:pve,controller
+dimwishlist:item=1119734784&perks=4090651448,3142289711,1820235745,3425386926
+
+
+// The Last Dance (controller,pvp)
+//notes: Wicked - 12/4/2022 - Nice energy option for PvP outside of Trespasser, Forgiveness, and Drang. Handling MW is ok but Range is preferred tags:controller,pvp
+dimwishlist:item=2009277538&perks=445755705,1885400500,588594999,1890422124
+
+
+// Forgiveness (mnk,pvp)
+//notes: Knife814 - 12/3/22 - a great secondary to pair with Forerunner or a Sniper.  Range MW tags:mnk,pvp
+dimwishlist:item=2345794502&perks=3250034553,3230963543,2450788523,438098033,2988596335
+
+
+// Forgiveness (controller,pvp)
+//notes: Tank - 12/3/22 - This is a beast in PvP and is tough to counter.  Range MW tags:controller,pvp
+dimwishlist:item=2345794502&perks=1482024992,3230963543,2450788523,2458213969,2988596335,2988596335
+
+
+// Forgiveness (Adept) (mnk,pvp)
+//notes: Knife814 - 12/3/22 - a great secondary to pair with Forerunner or a Sniper. Range MW tags:mnk,pvp
+dimwishlist:item=2405619467&perks=3250034553,3230963543,2450788523,438098033,2988596335
+
+
+// Forgiveness (Adept) (controller,pvp)
+//notes: Tank - 12/3/22 - Absolute beast in PvP.  Range MW and Adept Stability mod make this thing tough to counter. tags:controller,pvp
+dimwishlist:item=2405619467&perks=1482024992,3230963543,2450788523,2458213969,2988596335
